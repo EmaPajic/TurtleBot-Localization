@@ -1,6 +1,8 @@
 # TurtleBot-SLAM
 Localization and mapping based on particle filter with ROS and Gazebo
 
+For now it is just localization here
+
 Instructions to run this code: 
 
 -- need to write --
